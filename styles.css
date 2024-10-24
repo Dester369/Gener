@@ -1,0 +1,25 @@
+h2 {text-align: center;}
+
+
+
+
+ 
+.color-box {
+    align-content: center;
+    justify-content: center;
+    display: inline-block;
+   height: 300px;
+   width: 500px;
+   
+}
+.red { background-color: red }
+.blue { background-color: blue; }
+.yellow { background-color: yellow; }
+
+.line { width: 1600px;
+height: 50px;
+background-color: green;}
+
+p.final {
+    background-color: aquamarine;
+}
